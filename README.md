@@ -92,6 +92,9 @@ The reason I choose to exclude these 3 files is due to the fact that they are in
 
 ### **Upload data to BigQuerry**:
 
-Fisrt in BigQuery, I create a new dataset called **fibit_tracker_data** in my personal project 
+Fisrt in BigQuery, I create a new dataset called **fibit_tracker** in my personal project and start to upload 15 csv files that I have chosen before 
 
-![image](https://github.com/dunghoyyy/Google-Data-Analytic-Certificate-Capstone-Project/assets/132896605/54853a66-a84b-4261-9797-0766e32fad09)
+![image](https://github.com/dunghoyyy/Google-Data-Analytic-Certificate-Capstone-Project/assets/132896605/5e9a0406-9e96-42ed-837c-9c913caf14bd)
+
+
+
