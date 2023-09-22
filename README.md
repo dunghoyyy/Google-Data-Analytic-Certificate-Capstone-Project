@@ -96,5 +96,9 @@ Fisrt in BigQuery, I create a new dataset called **fibit_tracker** in my persona
 
 ![image](https://github.com/dunghoyyy/Google-Data-Analytic-Certificate-Capstone-Project/assets/132896605/5e9a0406-9e96-42ed-837c-9c913caf14bd)
 
+During the process of uploading the data, some table encounter an error like above. After investigating the solution for this problem, I have found an article on Kaggle on how to adress this issue 
+(here is the link to the article: https://www.kaggle.com/datasets/arashnic/fitbit/discussion/265899?datasetId=1041311&sortBy=voteCount&search=error)
+The solution here is to uncheck auto-detect in Schema and input mannually setting all the TIMESTAMP to STRING. Here is the code that I used in this step: 
+
 
 
